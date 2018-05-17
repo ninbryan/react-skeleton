@@ -23,6 +23,6 @@ yarn webpack # --mode production
 yarn webpack-dev-server --mode development # --open
 
 # option 2
-yarn run start # --open
+yarn run start --mode development # --open
 
 ```
